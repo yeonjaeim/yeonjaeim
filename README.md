@@ -7,12 +7,13 @@ I am Yeonjae, a soon-to-be Computer Science graduate with a focus on big data, e
 - **Frameworks**: Flask, React, Node.js, Apache Spark, Hadoop
 - **Data Analysis**: Power BI, Pandas, NumPy, ScikitLearn
 - **Databases**: MySQL, MongoDB, PostgreSQL
-- **Tools**: Git, Docker, Kubernetes, Jupyter Notebook, VS Code
+- **Tools**: Git, Docker, Jupyter Notebook, VS Code
 
 ## 🌱 What I’m currently learning
 - Advanced Machine Learning techniques
-- Cloud Computing with AWS
-- Containerization with Docker and Kubernetes
+- Distributed Computing with Apache Spark and Hadoop
+- Full-Stack Development using Python (Flask) and React.js
+- Data Visualization and Business Intelligence with Power BI
 
 ## 📫 How to reach me
 - Email: [yeonjaelim712@gmail.com](mailto:your.email@example.com)
