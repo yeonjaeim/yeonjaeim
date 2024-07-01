@@ -18,7 +18,7 @@ I am Yeonjae, a soon-to-be Computer Science graduate with a focus on big data, e
 
 ## 📫 How to reach me
 - Email: [yeonjaelim712@gmail.com](mailto:your.email@example.com)
-- LinkedIn: [Yeonjae Lim](www.linkedin.com/in/yeonjae-lim-7b01a4247)
+- LinkedIn: [Yeonjae Lim](https://www.linkedin.com/in/yeonjae-lim-7b01a4247/)
 
 ## ⚡ Fun fact
 - I love solving puzzles and writing diaries.
