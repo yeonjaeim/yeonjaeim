@@ -14,6 +14,7 @@ I am Yeonjae, a soon-to-be Computer Science graduate with a focus on big data, e
 - Distributed Computing with Apache Spark and Hadoop
 - Full-Stack Development using Python (Flask) and React.js
 - Data Visualization and Business Intelligence with Power BI
+- Containerization with Docker and Kubernetes
 
 ## 📫 How to reach me
 - Email: [yeonjaelim712@gmail.com](mailto:your.email@example.com)
