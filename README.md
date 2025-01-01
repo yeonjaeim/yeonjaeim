@@ -5,14 +5,13 @@ I am Yeonjae, a Computer Science graduate with a focus on big data. I am passion
 ## 🛠 Tech Skills
 - **Languages**: Python, Java, JavaScript, SQL
 - **Frameworks**: Flask, React, Node.js, Apache Spark, Hadoop
-- **Data Analysis**: Power BI, Pandas, NumPy, ScikitLearn, Tensorflow, MLlib
-- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Data Analysis**: Power BI, ScikitLearn, Tensorflow, Keras
+- **Databases**: MySQL, Redis
 - **Tools**: Git, Docker, Jupyter Notebook, VS Code
 
 ## 🌱 What I’m currently learning
 - Advanced Machine Learning techniques
-- Distributed Computing with Apache Spark and Hadoop
-- Full-Stack Development using Python (Flask) and React.js
+- Full-Stack Development using Python (Flask) and React
 - Data Visualization and Business Intelligence with Power BI
 - Containerization with Docker and Kubernetes
 
